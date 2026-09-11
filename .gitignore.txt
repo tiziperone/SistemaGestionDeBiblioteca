@@ -1,0 +1,11 @@
+# Compilados de Java
+*.class
+
+# Archivos de entorno y temporales de BlueJ
+*.ctxt
+*.bluej
+
+# Archivos comprimidos y de evaluación personal
+*.zip
+*.docx
+*.doc
